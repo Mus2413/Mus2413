@@ -1,5 +1,5 @@
 ### I'm Muskan!!! 👋
-I make elegantly professional 🌍 web apps, and 📱 flutter apps for a living and also design user experiences 🎨
+I make elegantly professional 🌍 web apps, and 📱 flutter apps  and also design user experiences 🎨
 
 - ✈️ Hire me for remote work & internships
 - 💼 Do read my resume here: 
