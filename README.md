@@ -13,5 +13,6 @@ I make elegantly professional 🌍 web apps, and 📱 flutter apps  and also des
 - 🎓 Pursuing B.Tech in Computer Science and Engineering
 - 💬 Ask me about Flutter and any Tech related stuff.
 - 📫 🎉 Let's connect on : [LinkedIn - @Muskan_Jn](https://www.linkedin.com/in/muskan-jain-116a441a6/)
+- 📭 muskanjain.pkj@gmail.com
 
 🕵 Take a look at my repositories and let's get in touch!
